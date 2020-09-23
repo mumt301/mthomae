@@ -1,0 +1,36 @@
+h1, h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color:mintcream;
+}
+body {
+    background-color: #440d52;
+    color: #ffdd11;
+    font-family: Georgia;
+    font-size: 22px;
+    line-height: 50px;
+}
+#intro {
+    font-size: 25px;
+    color: sandybrown;
+}
+.album {
+    border-width: 10px;
+    border-style: double;
+    border-color: darkgoldenrod;
+    background-color: rgb(151, 66, 66);
+    width:fit-content;
+    padding: 0.5cm;
+}
+.album p {
+    font: caption;
+    text-align: center;
+    color: white;
+}
+.member {
+    font-style: italic;
+    color: powderblue;
+}
+#leader {
+    font-style: oblique;
+    color: palevioletred;
+}
